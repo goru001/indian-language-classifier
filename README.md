@@ -17,6 +17,8 @@ The following languages are supported:
 |   Odia   |
 |  Marathi |
 |  Bengali |
+|  Tamil   |
+|  Urdu    |
 
 
 ### Dataset 
